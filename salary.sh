@@ -13,5 +13,5 @@ total=$(( $da + $hra + $ta ))
 gross=$(( $bs + $total ))
 echo "Gross Salary = " $gross
 
-
+hello
 haiiii
