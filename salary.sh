@@ -14,4 +14,4 @@ gross=$(( $bs + $total ))
 echo "Gross Salary = " $gross
 
 
-haiiii
+haiiii hello
